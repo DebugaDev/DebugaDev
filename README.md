@@ -1,5 +1,5 @@
 ## Sejam todos Bem Vindos!
-### Aqui é o GitHub do [Debuga Dev](https://www.youtube.com/@DebugaDev), canal do YouTube dedicado a tecnologia, onde você encontrar videoaulas das mais diversas tecnologias.
+### Aqui é o GitHub do [Debuga Dev](https://www.youtube.com/@DebugaDev), canal do YouTube dedicado a tecnologia, onde você encontra videoaulas das mais diversas tecnologias.
 
 <div  align="center" style="margin-bottom:100px">
   <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DebugaDev&theme=radical&mode=weekly" />
